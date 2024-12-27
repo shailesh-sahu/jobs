@@ -15,7 +15,7 @@
   },
   {
     "id": "2",
-    "title": "Front-End Engineer (React \u0026 Redux)",
+    "title": "Front-End Engineer (React & Redux)",
     "type": "Full-Time",
     "description": "Join our team as a Front-End Developer in sunny Miami, FL. We are looking for a motivated individual with a passion for crafting beautiful and responsive web applications. Experience with UI/UX design principles and a strong attention to detail are highly desirable.",
     "location": "Miami, FL",
@@ -109,6 +109,20 @@
       "description": "jsfj",
       "contactEmail": "jhdf",
       "contactPhone": "99900009999"
+    }
+  },
+  {
+    "id": "1",
+    "title": "aljfl",
+    "type": "aflajfl",
+    "description": "weesef",
+    "location": "faffasf",
+    "salary": "dfa",
+    "company": {
+      "name": "sfsf",
+      "description": "faf",
+      "contactEmail": "focaw40761@gholar.com",
+      "contactPhone": "afdfds"
     }
   }
 ]
